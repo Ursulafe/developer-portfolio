@@ -32,3 +32,8 @@ MIT
 <!-- Fix typo -->
 
 <!-- Fix typo -->
+## Installation
+
+```bash
+npm install
+```
