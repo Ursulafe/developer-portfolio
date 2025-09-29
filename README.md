@@ -43,3 +43,8 @@ npm install
 ```bash
 npm start
 ```
+
+## Features
+
+- Feature 1
+- Feature 2
