@@ -7,3 +7,9 @@ A modern, interactive portfolio website
 ```bash
 npm install
 ```
+
+## Usage
+
+```bash
+npm start
+```
