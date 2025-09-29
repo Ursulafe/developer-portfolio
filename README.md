@@ -62,3 +62,7 @@ MIT
 <!-- Fix typo -->
 
 <!-- Fix typo -->
+
+## License
+
+MIT
