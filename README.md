@@ -26,3 +26,5 @@ Pull requests welcome!
 ## License
 
 MIT
+
+<!-- Fix typo -->
