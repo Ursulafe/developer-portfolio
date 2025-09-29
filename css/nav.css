@@ -1,0 +1,2 @@
+.nav { display: flex; }
+@media (max-width: 768px) { .nav { flex-direction: column; } }

@@ -7,3 +7,8 @@ dist/
 build/
 
 .env
+
+dist/
+build/
+
+.env
