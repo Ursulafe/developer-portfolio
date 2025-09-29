@@ -1,1 +1,3 @@
-# My Developer Portfolio
+# Developer Portfolio
+
+A modern, interactive portfolio website
