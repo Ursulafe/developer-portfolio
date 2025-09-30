@@ -2,9 +2,3 @@
 
 ## Getting Started
 Follow these steps...
-
-## Update
-
-## Update
-
-## Update
