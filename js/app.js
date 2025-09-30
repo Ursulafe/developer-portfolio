@@ -6,3 +6,5 @@ const app = { init() { console.log('App initialized'); } };
 // Better comments
 
 // Optimized
+
+// Better comments
