@@ -66,3 +66,8 @@ MIT
 ## License
 
 MIT
+## Installation
+
+```bash
+npm install
+```
