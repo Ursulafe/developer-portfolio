@@ -146,3 +146,7 @@ npm start
 ## Contributing
 
 Pull requests welcome!
+
+## License
+
+MIT
