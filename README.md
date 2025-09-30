@@ -82,3 +82,7 @@ npm start
 
 - Feature 1
 - Feature 2
+
+## Contributing
+
+Pull requests welcome!
